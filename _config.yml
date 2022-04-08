@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   produced with Apple GarageBand and Logic Pro X
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: amethon
+twitter_username: MaschineMusik
 github_username:  yumpy
 
 # Build settings
@@ -58,8 +58,8 @@ minima:
   skin: launch
   google_analytics: G-X17BPMCDKJ
   social_links:
-    twitter: amethon
-    github: amethon
+    twitter: MaschineMusik
+    github: MaschineMusik
   date_format: "%Y-%m-%d"
 
 show_excerpts: true
