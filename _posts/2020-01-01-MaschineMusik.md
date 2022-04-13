@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "about"
+title: "The Musik of The Maschine "
 categories: bio
 excerpt: AI music project 
 ---
 
-<p>
-The Musik of The Maschine 
 
 <p>
 Deep learning has revolutionised many fields, and music is no exception. MaschineMusik first got involved with deep learning as a way to automate the composition process. After experimenting with a number of different applications, he came across neural music composers in 2019. He was struck by how much more depth and complexity the resulting compositions had than anything he had come across previously.

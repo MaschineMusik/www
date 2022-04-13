@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "Maschine Musik"
+title: "Discovery"
 categories: album
-excerpt: AI composition
+excerpt: First Album
 ---
-
-<p>
-The Musik of The Maschine 
-
 
 <h2>SoundCloud</h2>
 
