@@ -7,9 +7,9 @@ nav: /
 
 <ul>
   {% for post in site.posts %}
-    <li>
+    <div class="mm">
       <h2><a href="{{ post.url  | relative_url}}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
-    </li>
+    </div>
   {% endfor %}
 </ul>
