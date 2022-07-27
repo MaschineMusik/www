@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-min
 title: "Discovery"
 categories: album
 excerpt: First Album
